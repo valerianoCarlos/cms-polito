@@ -1,0 +1,58 @@
+.app-header {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.navbar {
+  height: 60px;
+}
+
+.my-table {
+  height: 73vh;
+  overflow-y: scroll;
+}
+
+.my-image {
+  width: 200px;
+  height: auto;
+}
+
+.custom-border {
+  border-width: 2px;
+}
+
+.clickable {
+  cursor: pointer;
+}
+
+.bold-text {
+  font-weight: bold;
+}
+
+.light-text {
+  font-weight: lighter;
+  font-size: smaller;
+}
+
+.below-nav {
+  padding-top: 5rem;
+}
+
+.page-link {
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+.fixed-right-bottom {
+  height: 51px;
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  z-index: 1030;
+  margin: 0 1.5rem 1.5rem 0;
+  border-radius: 50%;
+}
+
+td {
+  vertical-align: middle;
+}
